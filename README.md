@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyruszei)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align='center'>
   <img src='https://github.com/CyrusZei/CyrusZei/blob/master/assets/images/hero.svg?raw=true' width='400px' align="center">  
 </p>
