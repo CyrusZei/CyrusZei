@@ -67,7 +67,7 @@ I love to push my limits and show developers what you can do. So I made this [iP
   <img src='https://github.com/CyrusZei/CyrusZei/blob/master/assets/images/work_header.svg?raw=true' width='122px' align="center">  
 </p>
 
-<img src="https://github.com/CyrusZei/CyrusZei/blob/master/assets/images/webstep_logo.svg?raw=true" alt="welcome to my profile!" width='300px' align="right" valign="right"> I work at Webstep and that is a consultant company. I started at Webstep august 2019 and it is a fun and cool company. You get a lot of freedom on what you want to learn and sharing knowledge happens a lot.       
+I have my own consulting company that is up an runing.       
 
 <br />
 <br />
