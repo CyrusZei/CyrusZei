@@ -49,9 +49,7 @@ I love to push my limits and show developers what you can do. So I made this [iP
 <br />
 <br />
 
-<p align='center'>
-  <img src='https://github.com/CyrusZei/CyrusZei/blob/master/assets/images/elon_quote_update.svg?raw=true' width='500px'>  
-</p>
+<p align='center'><i>“Money doesn’t change you; it reveals who you truly are.”</i></p>
 
 
 <br />
