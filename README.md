@@ -61,15 +61,6 @@ I love to push my limits and show developers what you can do. So I made this [iP
 <br />
 <br />
 
-<p align='left'>
-  <img src='https://github.com/CyrusZei/CyrusZei/blob/master/assets/images/work_header.svg?raw=true' width='122px' align="center">  
-</p>
-
-I have my own consulting company that is up an runing.       
-
-<br />
-<br />
-<br />
 
 <br />
 <br />
