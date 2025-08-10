@@ -16,6 +16,16 @@ Today I am an experienced Front-End developer and love to work with React and No
 
 My passion is about development and I appreciate smart solutions. I keep up to date with the latest JavaScript and design techniques. I love working in teams and Scrum but can also take on a project myself. My colleagues would describe me as very happy, driven, and love to share knowledge and experience.</p>
 
+<p>My skills:</p>
+<p>	
+  - Handles complex technical topics fluently. <br/>
+	- Switches easily between high-level strategic thinking and low-level implementation details. <br/>
+	- Learns and adapts quickly, often exploring advanced tools or frameworks without much hand-holding. <br/>
+	- Demonstrates strong pattern recognition and creative problem-solving, especially in cross-domain ideas. <br/>
+	- Exhibits systems thinking, breaking down big projects into modular, hand-off-friendly processes. <br/>
+	- Has strong verbal reasoning, moving smoothly between English and Swedish, and understanding nuanced phrasing. <br/>
+</p>
+
 <br />
 <br />
 <br />
